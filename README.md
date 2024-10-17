@@ -1,2 +1,1 @@
-# Practice-C-
 # Practice-CSh
